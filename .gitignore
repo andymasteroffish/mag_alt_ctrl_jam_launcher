@@ -1,4 +1,5 @@
 dream_launcher/bin/data/games
+dream_launcher/bin/*.exe
 dream_launcher/bin/data/images
 dream_launcher/obj
 dream_launcher/.vs
